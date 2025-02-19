@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="210" src="[https://i.postimg.cc/9QKfRtjS/Yeamin-Foysal-1.png](https://i.postimg.cc/j2Q3q3Rf/Yeamin-Foysal-7.png)"  />
+  <img height="210" src="https://i.postimg.cc/j2Q3q3Rf/Yeamin-Foysal-7.png"  />
 </div>
 
 ###
