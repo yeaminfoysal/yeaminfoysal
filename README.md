@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Front-End Developer</h2>
+<h2 align="left">Full Stack Developer</h2>
 
 ###
 
@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">Hello. I am a front-end developer from Dhaka, Bangladesh. I make beautiful front-end web applications. I started learning to code at an early age and love exploring new programming languages in my free time. When I’m not coding, I enjoy traveling and discovering new places, which keeps me inspired and refreshed.<br><br>With a mix of curiosity and determination, I’m always eager to grow and make an impact in the world of technology.</p>
+<p align="left">Hello! I’m a full-stack developer from Dhaka, Bangladesh, passionate about creating beautiful, user-friendly front-end experiences backed by scalable and efficient backend systems. I began coding at an early age and have since developed a deep curiosity for exploring new programming languages and technologies.
+<br><br>Beyond coding, I enjoy traveling and discovering new places, which keeps me inspired, refreshed, and full of creative ideas. Driven by curiosity and determination, I’m always eager to grow, take on new challenges, and make a meaningful impact in the world of technology.</p>
 
 ###
 
